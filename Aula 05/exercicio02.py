@@ -1,0 +1,10 @@
+# EXERCICIO 02:
+
+# NESTE MOMENTO ESTÁ OCORRENDO O CASTING, ONDE CONVERTEMOS O STRING DO INPUT PARA INT
+anoNasc = int(input("Informe o seu ano de nascimento: "))
+
+# REALIZANDO O CALCULO DO ANO DE NASCIMENTO COM O ANO ATUAL
+resultado = 2026 - anoNasc
+
+# IMPRIMINDO A MENSAGEM COM A FORMATAÇÃO F-STRING
+print(f"Em 2026, você fará {resultado} anos")

@@ -1,0 +1,13 @@
+# LER A IDADE DE UMA PESSOA E IMPRIMA A RESPOSTA:
+
+# PEÇA A IDADE COM INPUT E IMPRIMO ELA DENTRO DE UM PRINT
+print("A informação digitada foi: ", input("Digite a idade: "))
+
+# OUTRO EXEMPLO QUE PODE SER FEITO
+
+# COM A FUNÇÃO INPUT EU PEÇO A IDADE DELE E ARMAZENO NA VARIAVÉL
+# DADO
+dado = input("Informe a idade: ")
+
+# COM O VALOR ARMAZENADO, EU IMPRIMO ESTE RESULTADO NA TELA
+print("A idade digitada foi ", dado)
