@@ -1,0 +1,7 @@
+# EXEMPLO 01:
+
+# DECLARAÇÃO E ATRIBUIÇÃO DE VARIAVEL DO TIPO BOOLEANO
+sinal = True
+
+''' IMPRINDO A MENSAGEM COM O RESULTADO '''
+print(f"A sua resposta é {sinal}")
