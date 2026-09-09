@@ -1,0 +1,12 @@
+# EXERCICIO 03:
+
+# SOLICITA UM NUMERO FLOAT AO USUÁRIO
+numero = float(input("Informe um numero: "))
+
+# APÓS O USUÁRIO DIGITAR O NUMERO, VOCÊ IRA USAR A FUNÇÃO ROUND()
+# PARA FAZER ARREDONDAMENTOS, E COMO EU QUERO 2 CASAS DECIMAIS PÓS O PONTO
+# EU COLOCO O NÚMERO 2 COMO PARAMETRO
+arredondado = round(numero, 2)
+
+# IMPRIMINDO A MENSAGEM COM A ARREDONDAMENTO
+print("Este valor arredondado fica: ", arredondado)

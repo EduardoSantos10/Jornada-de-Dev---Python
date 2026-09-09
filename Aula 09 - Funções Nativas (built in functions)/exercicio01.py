@@ -1,0 +1,11 @@
+# EXERCICIO 01:
+
+# DECLAREI A VARIAVEL, ATRIBUINDO A PRONUNCA COMO VALOR
+pronuncia = "Paralelepipedo"
+
+# COLOQUE ESTA PRONUNCIA DENTRO DE UMA FUNÇÃO "LEN"
+# E ATRIBUI DENTRO DA VARIÁVEL "MSG"
+msg = len(pronuncia)
+
+# IMPRIMI O ENUNCIADO JUNTO DA VARIAVEL COM A FRASE
+print("O tamanho dessa string de caracteres é: ", msg)
