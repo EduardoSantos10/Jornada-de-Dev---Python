@@ -1,4 +1,4 @@
-# EXERCICIO 01:
+# EXERCICIO 01: VALIDÇÃO DE SENHA DE ACESSO
 
 # VARIÁVEIS DE CONTROLE: SOLICITAÇÃO DE SENHA
 senha = input("Informe a sua senha: ")

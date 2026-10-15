@@ -1,4 +1,4 @@
-# EXERCICIO 02:
+# EXERCICIO 02: LEITOR DE TEMPERATURA DE DATACENTER
 
 # SOLICITANDO A TEMPERATURA AO USUÁRIO
 temp = float(input("Informe a temperatura do servidor: "))
