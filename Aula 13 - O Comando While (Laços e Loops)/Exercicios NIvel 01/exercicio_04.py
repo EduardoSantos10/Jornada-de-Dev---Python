@@ -7,7 +7,7 @@ print("2 - Consultar chamado")
 print("3 - Encerramento do Chamado")
 print("0 - Sair do Sistema")
 
-# CRIAÇÇÃO DO CONTADOR
+# CRIAÇÃO DO CONTADOR
 cont = 1
 
 # CASO O WHILE SEJA TRUE, ELE CONTINUARA EXECUTANDO
