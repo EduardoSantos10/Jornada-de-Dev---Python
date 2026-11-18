@@ -1,0 +1,9 @@
+# EXERCICIO 02: TABUADA AUTOMATIZADA
+
+# SOLICITE UM NÚMERO
+num = int(input("Informe um número: "))
+
+# CRIE O LAÇO FOR
+for i in range(1, 11, 1):
+    result = i * num # FAÇA A MULTIPLICAÇÃO DO NUMERO INFORMADO PELO CONTADOR QUE PERCORRE CADA NÚEMRO DA SEQUÊNCIA
+    print(result, "") # IMPRIMA O RESULTADO
